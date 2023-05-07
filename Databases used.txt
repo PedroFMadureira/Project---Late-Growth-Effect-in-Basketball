@@ -1,0 +1,3 @@
+Databases used:
+https://www.kaggle.com/datasets/blitzapurv/nba-players-data-1950-to-2021?resource=download
+https://www.espn.com/college-sports/basketball/recruiting/playerrankings/_/class/2007/order/true
